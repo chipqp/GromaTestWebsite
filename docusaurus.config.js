@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Unique Valley',
-  tagline: 'UNIQUE VINTAGE ITEMS',
+  tagline: 'MILLION OF UNIQUE VINTAGE ITEMS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
